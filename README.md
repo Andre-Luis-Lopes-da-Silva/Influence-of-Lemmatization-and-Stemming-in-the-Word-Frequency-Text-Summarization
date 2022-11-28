@@ -13,3 +13,7 @@ Metrics obtaining is extremely crucial to determining the quality of machine gen
 ROUGE (Recall-Oriented Understudy for Gisting Evaluation) is the standard automatic evaluation measure for evaluating summarization tasks. 
 
 It is essentially a set of metrics for evaluating automatic summarization of texts as well as machine translations. It works by comparing an automatically produced summary or translation against a set of reference summaries (typically human-produced). 
+
+For more details about ROUGE metrics, access this site (Portuguese content): 
+https://clonageinvitro.wixsite.com/datascience-for-all/post/m%C3%A9tricas-rouge-para-mensura%C3%A7%C3%A3o-de-resumos-gerados-por-intelig%C3%AAncia-artificial
+
